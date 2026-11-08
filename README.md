@@ -2,7 +2,7 @@
 
 A responsive, visually engaging landing page for an artisanal bakery featuring custom CSS polygon clip-path scroll animations and grid layout design.
 
-[Live Demo](#) | [Report Bug](#)
+[Live Demo](https://goldencrusts.netlify.app/) 
 
 ---
 
