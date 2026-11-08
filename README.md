@@ -22,4 +22,4 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/golden-crust-bakery.git](https://github.com/your-username/golden-crust-bakery.git)
+   git clone https://github.com/your-username/golden-crust-bakery.git
